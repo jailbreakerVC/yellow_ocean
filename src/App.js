@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div className="App">
         <Heading></Heading>
-        <Image></Image>
+        
         
       </div>
     )
